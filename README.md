@@ -1,4 +1,5 @@
-## Hi there 👋
+                                                    ## Hi there 👋
+                                                 Java Backend Developer 
 
 
 # 💻 Tech Stack:
@@ -10,24 +11,14 @@
   ![919853](https://github.com/user-attachments/assets/3a3f97ff-60ad-4289-81fe-e3e40e3686e9)
   ![download](https://github.com/user-attachments/assets/de3b5065-9c04-42b6-a7ba-68dff4e74867)
 
-
-
-
+ 
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amitkt123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkt123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amitkt123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amitkt123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkt123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+ 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amitkt123&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=amitkt123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
